@@ -9,8 +9,6 @@
 ### About Me
 RAF Service Leaver looking to transition into the Software Development space...
 - Experienced IT Support Technician specialising in System Administration, CCNA Networking and Hardware/Software Troubleshooting
--
--
 
 🔭 I’m currently working on ...
 - 💻 Portfolio Website
